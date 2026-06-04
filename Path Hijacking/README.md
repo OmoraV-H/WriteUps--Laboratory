@@ -1,12 +1,14 @@
-### Linux Privilege Escalation via SUID + PATH Hijacking
+# Linux Privilege Escalation via SUID + PATH Hijacking
 
-## 🎯 Objetivo
+## El objetivo de este laboratorio es demostrar cómo un binario SUID mal implementado puede ser explotado mediante PATH hijacking para obtener privilegios de root.
+
+
+### 🎯 Objetivo
 ► Construir un binario mal configurado
 ► Escalar privilegios desde un usuario sin privilegios.
 ► Analizar un binario SUID.
 ► Explotar PATH hijacking.
 
-# El objetivo de este laboratorio es demostrar cómo un binario SUID mal implementado puede ser explotado mediante PATH hijacking para obtener privilegios de root.
 
 ## 🧱 Entorno de laboratorio
 ► SO: Linux
